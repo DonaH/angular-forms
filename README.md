@@ -29,5 +29,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ---
-Modification Date: 8-16-2021
-Creation Date: 8-16-2021
+```
+Package                         Version
+---------------------------------------------------------
+
+@angular-devkit/architect       0.1201.4
+@angular-devkit/build-angular   12.1.4
+@angular-devkit/core            12.1.4
+@angular-devkit/schematics      12.1.4
+@angular/cli                    12.1.4
+@schematics/angular             12.1.4
+rxjs                            6.6.7
+typescript                      4.3.5
+```
+---
+
+Modified On: 8.16.2021
+Creation Date: 8.16.2021
